@@ -2,7 +2,7 @@
 
 # 18 NoSQL: Social Network API
 
-#by Kevin Rivera
+By: Kevin Rivera
 
 
 
